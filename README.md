@@ -1,4 +1,4 @@
-# [Project 1 (Python):](https://isaacahor.github.io/Porfolio/)
+# [Uncrackable Password Generator:](https://isaacahor.github.io/Porfolio/)
 1. This is an automated uncrackable password generator 
 2. Contains all alphanumeric characters and special characters
 3. Maximum length of password is 12
